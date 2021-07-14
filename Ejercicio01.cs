@@ -2,7 +2,7 @@
 
 namespace ConsoleApp1
 {
-    class Program
+    class Ejercicio01
     {
         static void Main(string[] args)
         {
@@ -10,4 +10,3 @@ namespace ConsoleApp1
         }
     }
 }
-5
