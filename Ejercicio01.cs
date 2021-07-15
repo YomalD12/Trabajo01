@@ -7,6 +7,7 @@ namespace ConsoleApp1
 {
     public class Ejercicio01
     {
+        //retornar numeros
         void Imprimir(int x)
         {
             Console.Write(x + " ");
